@@ -8,6 +8,6 @@ A Responsive simple frontend landing page built while learning Trainee - Full St
 # Live Demo
 Click Here 👉 [NEXT Test Website](https://janinduchanuka.github.io/NEXT-TestWebsite/)
 
-#Screeshot
+# Screeshot
 
 ![Screenshot](https://user-images.githubusercontent.com/108678396/191202094-1a734895-5cda-45fc-b54c-6f8bcfa4604d.png)
