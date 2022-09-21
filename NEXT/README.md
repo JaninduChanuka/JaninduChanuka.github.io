@@ -10,4 +10,4 @@ Click Here 👉 [NEXT Test Website](https://janinduchanuka.github.io/NEXT/)
 
 # Screeshot
 
-![Screenshot](https://user-images.githubusercontent.com/108678396/191202094-1a734895-5cda-45fc-b54c-6f8bcfa4604d.png)
+![Screenshot](https://user-images.githubusercontent.com/108678396/191484110-8d00a4ed-448e-4698-89b6-a601e86bb5bd.png)
