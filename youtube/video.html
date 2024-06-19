@@ -11,6 +11,16 @@
     <iframe id="video-frame" width="640" height="360" src="" title="YouTube video player" frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+    <script>
+        // Get the embed URL from the query parameter
+        const params = new URLSearchParams(window.location.search);
+        const embedUrl = params.get('src');
+
+        // Set the src attribute of the iframe to embed the YouTube video
+        const videoFrame = document.getElementById('video-frame');
+        videoFrame.src = decodeURIComponent(embedUrl); // Decode the URL before setting it as the src
+    </script>
 </body>
 
 </html>
